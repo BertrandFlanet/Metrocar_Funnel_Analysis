@@ -8,7 +8,7 @@ In the following sections, we will describe our process, findings and conclusion
 
 
 ### Table of Contents<br>
-[1 - Usage]([# 1---Usage])<br>
+[1 - Usage](#1---Usage)<br>
 2 - Project Structure<br>
 3 - Data<br>
 4 - Analysis<br>
