@@ -9,14 +9,14 @@ In the following sections, we will describe our process, findings and conclusion
 
 ### Table of Contents<br>
 [1 - Usage](#1---Usage)<br>
-2 - Project Structure<br>
-3 - Data<br>
-4 - Analysis<br>
-5 - Results<br>
-6 - Visualizations<br>
-7 - Conclusions<br>
-8 - Acknowledgment<br>
-9 - Contact<br>
+[2 - Project Structure](#2---Project Structure)<br>
+[3 - Data](#3---Data)<br>
+[4 - Analysis](#4---Analysis)<br>
+[5 - Results](#5---Results)<br>
+[6 - Visualizations](#6---Visualizations)<br>
+[7 - Conclusions](#7---Conclusions)<br>
+[8 - Acknowledgment](#8---Acknowledgment)<br>
+[9 - Contact](#9---Contact)<br>
 
 
 ### 1 - Usage
