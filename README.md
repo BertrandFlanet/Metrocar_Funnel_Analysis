@@ -1,4 +1,4 @@
-**Metrocar Funnel Analysis**
+# **Metrocar Funnel Analysis**
 
 Metrocar is a (fictional) ride-sharing app - similar to Uber/Lyft.<br>
 Our main goal is to perform a funnel analysis of our users to identify areas for improvement and optimization.
@@ -8,7 +8,7 @@ In the following sections, we will describe our process, findings and conclusion
 <br>
 <br>
 
-### Table of Contents<br>
+## Table of Contents<br>
 [1 - Usage](#1---Usage)<br>
 [2 - Project Structure](#2---Project-Structure)<br>
 [3 - Data](#3---Data)<br>
@@ -20,7 +20,7 @@ In the following sections, we will describe our process, findings and conclusion
 [9 - Contact](#9---Contact)<br>
 <br>
 
-### 1 - Usage
+## 1 - Usage
 .ipynb: Google Colab: Upload directly via the "File" menu or open from Google Drive
 Jupyter Notebook: Install Jupyter, start it via terminal, and open the .ipynb file through the interface
 
@@ -29,7 +29,7 @@ If you are using a local IDE, you may want to update the .ipynb file so to link 
 <br>
 <br>
 
-### 2 - Project Structure
+## 2 - Project Structure
 
 ```
 Metrocar Funnel Analysis/
@@ -64,7 +64,7 @@ Metrocar Funnel Analysis/
 ```
 <br>
 
-### 3 - Data
+## 3 - Data
 For security reasons, the database link cannot be shared.<br>
 However, we have provided the 5 tables of the database as .csv document, to be found in the `data` directory.
 
@@ -119,7 +119,7 @@ For information, here is the structure of the database's tables and columns:
 ```
 <br>
 
-### 4 - Analysis
+## 4 - Analysis
 We conducted our analysis in the following:
 * EDA
 * Wrangle data to generate Funnel per user at various levels:
@@ -151,7 +151,7 @@ We conducted our analysis in the following:
 * Sentiment analysis on user's reviews
 <br>
 
-### 5 - Results
+## 5 - Results
 * We observed 3 major drop-offs on the funnel per user at Signups, request ride, review levels.
 * Largest drop-offs act rider acceptance level for the funnel per ride
 * Peak of activity between 8 and 10 a.m. and between 4 and 8 p.m.
@@ -165,12 +165,12 @@ We conducted our analysis in the following:
 * We observed a concerning plummeting of Metrocar's activity from December 2021 to latest record on April 2024: Metrocar's activity are close to 0 by April 2024
 <br>
 
-### 6 - Visualizations
+## 6 - Visualizations
 Charts and plots are available in the following folder: `results`
 <br>
 <br>
 
-### 7 - Conclusions
+## 7 - Conclusions
 
 **Funnel at user level**<br>
 Looking at the Funnel per user we observed 3 major drop-offs:<br>
@@ -234,7 +234,7 @@ However, there is a sharp plummet in 2022. There may be a problem with data coll
 <br>
 <br>
 
-### 8 - Acknowledgment
+## 8 - Acknowledgment
 
 This project has been conducted within the frame of Masterschool Data Analytics boot camp.
 This project was initially conducted as a group composed of Bertrand Flanet, Sidddeq Asmad, and Nadyia Zahn.
@@ -242,7 +242,7 @@ However, all the documents, code and visualizations in the directory are of my d
 <br>
 <br>
 
-### 9 - Contact
+## 9 - Contact
 Bertrand Flanet<br>
 E-mail: bertrand.flanet@gmail.com<br>
 linkedIn: https://www.linkedin.com/in/bertrand-flanet-67b1b2299/
