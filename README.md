@@ -9,7 +9,7 @@ In the following sections, we will describe our process, findings and conclusion
 
 ### Table of Contents<br>
 [1 - Usage](#1---Usage)<br>
-[2 - Project Structure](#2---Project Structure)<br>
+[2 - Project Structure](#2---Project-Structure)<br>
 [3 - Data](#3---Data)<br>
 [4 - Analysis](#4---Analysis)<br>
 [5 - Results](#5---Results)<br>
@@ -160,7 +160,7 @@ We conducted our analysis in the following:
 * Reviews and rating are mild: average 3 out 5 for rating and a 45% of negative opinion expressed about
 * We observed a concerning plummeting of Metrocar's activity from December 2021 to latest record on April 2024: Metrocar's activity are close to 0 by April 2024
 
-### 6 -  Visualizations
+### 6 - Visualizations
 Charts and plots are available in the following folder: `results`
 
 ### 7 - Conclusions
