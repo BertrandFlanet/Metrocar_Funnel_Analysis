@@ -5,7 +5,8 @@ Our main goal is to perform a funnel analysis of our users to identify areas for
 
 From our EDA and funnel analysis was observed areas for improvement as well as elements that have questions the health of Metrocar as a business.
 In the following sections, we will describe our process, findings and conclusion.
-
+<br>
+<br>
 
 ### Table of Contents<br>
 [1 - Usage](#1---Usage)<br>
@@ -17,7 +18,7 @@ In the following sections, we will describe our process, findings and conclusion
 [7 - Conclusions](#7---Conclusions)<br>
 [8 - Acknowledgment](#8---Acknowledgment)<br>
 [9 - Contact](#9---Contact)<br>
-
+<br>
 
 ### 1 - Usage
 .ipynb: Google Colab: Upload directly via the "File" menu or open from Google Drive
@@ -25,7 +26,8 @@ Jupyter Notebook: Install Jupyter, start it via terminal, and open the .ipynb fi
 
 Upload all .csv files from `data` directory within the open Colab project.
 If you are using a local IDE, you may want to update the .ipynb file so to link the .csv to their local directory.
-
+<br>
+<br>
 
 ### 2 - Project Structure
 
@@ -60,10 +62,10 @@ Metrocar Funnel Analysis/
 |
 └── README.md #  Project documentation
 ```
-
+<br>
 
 ### 3 - Data
-For security reasons, the database link cannot be shared.
+For security reasons, the database link cannot be shared.<br>
 However, we have provided the 5 tables of the database as .csv document, to be found in the `data` directory.
 
 For information, here is the structure of the database's tables and columns:
@@ -115,37 +117,39 @@ For information, here is the structure of the database's tables and columns:
 'charge_status', 
 'transaction_ts'
 ```
+<br>
 
 ### 4 - Analysis
 We conducted our analysis in the following:
 * EDA
 * Wrangle data to generate Funnel per user at various levels:
-- user downloaded
-- user signup 
-- user request
-- user acceptance
-- user started
-- user completed
-- user has paid
-- user cancelled
-- user paid
-- user rated
-- user review
+  - user downloaded
+  - user signup 
+  - user request
+  - user acceptance
+  - user started
+  - user completed
+  - user has paid
+  - user cancelled
+  - user paid
+  - user rated
+  - user review
 * Visualizing Funnel per user
 * Wrangle data to generate Funnel per ride at various levels:
-- ride request
-- ride acceptance
-- ride completed
-- ride paid
-- ride rated
+  - ride request
+  - ride acceptance
+  - ride completed
+  - ride paid
+  - ride rated
 * Visualizing funnel per ride by:
-- hour
-- weekdays
-- months
-- age range
-- platform
+  - hour
+  - weekdays
+  - months
+  - age range
+  - platform
 * Additional observations related to time spent on the app
 * Sentiment analysis on user's reviews
+<br>
 
 ### 5 - Results
 * We observed 3 major drop-offs on the funnel per user at Signups, request ride, review levels.
@@ -159,9 +163,12 @@ We conducted our analysis in the following:
 * An unknown age group should be investigated further as it shapes the largest group of 
 * Reviews and rating are mild: average 3 out 5 for rating and a 45% of negative opinion expressed about
 * We observed a concerning plummeting of Metrocar's activity from December 2021 to latest record on April 2024: Metrocar's activity are close to 0 by April 2024
+<br>
 
 ### 6 - Visualizations
 Charts and plots are available in the following folder: `results`
+<br>
+<br>
 
 ### 7 - Conclusions
 
@@ -224,15 +231,18 @@ We recommend a deeper look into the negative reviews to identify areas of improv
 Lastly, we saw a constant growth in ride requests, with a proportional lack of acceptance from drivers. The number of cancellations however remained fairly stable.<br>
 <br>
 However, there is a sharp plummet in 2022. There may be a problem with data collection, structural issues in the app, or, less likely, a sudden drop-off from users. This should be investigated further.
-
+<br>
+<br>
 
 ### 8 - Acknowledgment
 
 This project has been conducted within the frame of Masterschool Data Analytics boot camp.
 This project was initially conducted as a group composed of Bertrand Flanet, Sidddeq Asmad, and Nadyia Zahn.
 However, all the documents, code and visualizations in the directory are of my doing - except for the Metrocar Presentation.pdf which was a collective work.
+<br>
+<br>
 
 ### 9 - Contact
-Bertrand Flanet
-E-mail: bertrand.flanet@gmail.com
+Bertrand Flanet<br>
+E-mail: bertrand.flanet@gmail.com<br>
 linkedIn: https://www.linkedin.com/in/bertrand-flanet-67b1b2299/
