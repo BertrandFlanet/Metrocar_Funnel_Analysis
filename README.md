@@ -26,6 +26,13 @@ Jupyter Notebook: Install Jupyter, start it via terminal, and open the .ipynb fi
 
 Upload all .csv files from `data` directory within the open Colab project.
 If you are using a local IDE, you may want to update the .ipynb file so to link the .csv to their local directory.
+
+python:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
 <br>
 <br>
 
